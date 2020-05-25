@@ -53,12 +53,12 @@
             <artifactId>nacos-client</artifactId>
             <version>1.2.1</version>
         </dependency>
-        <!-- Alibaba Spring Context extension -->
-        <dependency>
-            <groupId>com.alibaba.spring</groupId>
-            <artifactId>spring-context-support</artifactId>
-            <version>1.0.2</version>
-        </dependency>
+<!--        &lt;!&ndash; Alibaba Spring Context extension &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>com.alibaba.spring</groupId>-->
+<!--            <artifactId>spring-context-support</artifactId>-->
+<!--            <version>1.0.2</version>-->
+<!--        </dependency>-->
 
 
 

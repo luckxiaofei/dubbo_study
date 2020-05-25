@@ -1,11 +1,8 @@
 package com.example;
 
 import com.alibaba.dubbo.config.spring.context.annotation.EnableDubbo;
-import com.alibaba.nacos.api.config.annotation.NacosProperty;
 import com.example.demo.EmbeddedZooKeeper;
 import org.springframework.boot.SpringApplication;
-
-
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @EnableDubbo
